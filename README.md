@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Verônica! But you can also call me Ronnie! 
-- 👀 I’m interested in Programming Languages (Python & SQL) and Data Science.
-- 🌱 I’m currently learning Programming Logic to have a solid foundation when I start studying Python on my Data Science classes.
-- 💞️ I’m looking to collaborate on study cases so that other IT students who are beginners in development can learn something or simply inspire themselves to practice coding.
-- 😄 Pronouns: She / Her
-- 👀 Curious fact: I'm 30 years old, and I am the mom of an incredible little boy! I've been trying to find a profession that makes sense with who I am for years, and this year (2024) I finally found something that makes my eyes shine! I have fallen in love with this big IT universe, and it has got me so excited!
+👋 Hi, I’m Verônica! But you can also call me Ronnie!  
+👀 I’m interested in Software Engineering and programming languages like Java, JavaScript, and HTML (for now).  
+🌱 This year, I started my degree in Software Engineering, but to develop my skills more quickly, I also enrolled in a Full-stack Development course. Currently, I'm learning to build web pages using HTML, CSS, and JavaScript.  
+💞️ I’m looking to collaborate on study projects to help other beginner IT students learn something new or simply find inspiration to practice coding.  
+😄 Pronouns: She/Her  
+👀 Fun fact: I'm 30 years old and the mom of an incredible little boy! For years, I've been trying to find a profession that aligns with who I am, and this year (2024), I finally found something that truly excites me! I've fallen in love with the vast IT universe, and I couldn't be happier!
 
 
 <!---
